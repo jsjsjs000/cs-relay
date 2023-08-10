@@ -1,0 +1,6 @@
+din-cu: 1
+    10.1.4.44
+isr-din-temp-4: 2
+isr-din-rel-2: 3
+isr-box-temp-2: 4
+    2, 3, 4
